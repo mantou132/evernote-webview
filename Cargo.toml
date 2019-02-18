@@ -1,0 +1,8 @@
+[package]
+name = "rust-webview"
+version = "0.1.0"
+authors = ["mantou"]
+edition = "2018"
+
+[dependencies]
+web-view = "0.4.0"
